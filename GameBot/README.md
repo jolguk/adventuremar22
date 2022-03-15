@@ -1,4 +1,4 @@
-# Game Bot
+# Game Bot Joanne
 Here's how you build the bot manually. 
 Feel free to adjust the code - after all it's your bot!
 You can also use the GitHub action in the .github/workflows folder to build and push the bot.    
