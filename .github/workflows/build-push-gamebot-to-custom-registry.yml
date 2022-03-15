@@ -11,8 +11,8 @@ on:
   push:    
     # deactivated for now - has to be enabled by team
       
-    branches: 
-      - main
+    branches:  [ $default-branch ]
+      
     #paths:
     #  - GameBot/**
     #  - .github/workflows/build-push-gamebot.yml
